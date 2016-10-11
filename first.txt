@@ -3,3 +3,5 @@ This is an example file for an example repository.
 This is the first entry
 
 Well, i've changed something now. Added this line.
+
+I'm adding this line in the b1 branch!
